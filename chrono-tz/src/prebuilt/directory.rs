@@ -1,4 +1,4 @@
-pub const IANA_TZDB_VERSION: &str = "2026c";
+pub const IANA_TZDB_VERSION: &str = "2026e";
 
 use crate::timezones::Tz;
 
